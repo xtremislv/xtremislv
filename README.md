@@ -22,27 +22,6 @@ I'm an AI & Data Science enthusiast, currently pursuing my **B.Tech in Data Scie
 - **Development Tools:** Docker, Streamlit, Django, Flask, Selenium, BeautifulSoup
 - **AI Models & APIs:** Gemini AI, Ollama, ULtralytics YOLO, Tesseract OCR, Microsoft Azure
 
----
-
-## 🚀 Notable Projects
-
-### 🎤 **Interview Practice System - Career Crafters**
-- AI-driven system analyzing **body posture, gestures, and speech fluency**.
-- Tools: **MediaPipe, OpenAI, Django, Python, Librosa**.
-
-### 🏦 **Banking Chatbot**
-- Voice-enabled chatbot handling transactions with **78% intent classification accuracy**.
-- Tools: **Ollama, Vosk, PyTorch, Python**.
-
-### 📊 **Twitter Sentiment Prediction using Knowledge Distillation**
-- Fine-tuned **BERT model** achieving **94.87% inference speed improvement**.
-- Tools: **Transformers, NLPaug, PyTorch, scikit-learn**.
-
-### 🔥 **Real-time Smoke Detection on Apache Spark**
-- Deployed an object detection model for **real-time smoke detection**.
-- Achieved a **latency of 20ms** using Apache Spark.
-
-📌 **[View all projects on my website](https://xtremislv.github.io/)**
 
 ---
 
