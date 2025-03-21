@@ -1,4 +1,4 @@
-![Header]([https://raw.githubusercontent.com/xtremislv/xtremislv/main/assets/github-header.png](https://github.com/xtremislv/xtremislv/blob/main/github-header-image.png))
+![Header](https://github.com/xtremislv/xtremislv/blob/main/github-header-image.png)
 
 # Hi there, I'm Lovy Verma! 👋
 
