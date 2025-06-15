@@ -2,7 +2,7 @@
 
 # Hi there, I'm Lovy Verma! 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-xtremislv.github.io-blue?style=flat-square&logo=internet-explorer)](https://xtremislv.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lovyverma.vercel.app-blue?style=flat-square&logo=internet-explorer)](https://lovyverma.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovy%20Verma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lovy-verma-b72067257/)
 [![GitHub](https://img.shields.io/github/followers/xtremislv?label=Follow%20Me&style=social)](https://github.com/xtremislv)
 
@@ -35,7 +35,7 @@ I'm an AI & Data Science enthusiast, currently pursuing my **B.Tech in Data Scie
 ---
 
 📫 **Let's connect!**
-- 🌐 [Portfolio](https://xtremislv.github.io/)
+- 🌐 [Portfolio](https://lovyverma.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lovy-verma-b72067257/)
 - 🏆 [GitHub](https://github.com/xtremislv)
 
